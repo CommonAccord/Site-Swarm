@@ -15,7 +15,7 @@ Ti=Critical actions
 
 1.6.sec=Amendations to these bylaws 
 
-1.=[Bit/Ssec_06]
+1.=[Z/Sec/s6]
 
 2.0.sec=Notification timeline:
 
@@ -23,8 +23,8 @@ Ti=Critical actions
 
 2.2.sec=4 week timeframe in which to vote: 
 
-2.=[Bit/Ssec_02]
+2.=[Z/Sec/s2]
 
 3.sec=Critical actions require 70% approval of voting stakeholders within the time period specified. 
 
-=[Bit/Ssec_03]
+=[Z/Sec/s3]

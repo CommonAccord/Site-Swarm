@@ -2,7 +2,7 @@ Ti={Co.Name.Full} DCO
 
 Purpose.Ti=Purpose
 
-Purpose.=[Bit/Sec_01]
+Purpose.=[Z/Sec/1]
 
 Token.Ti=Tokens
 
@@ -12,37 +12,37 @@ Token.Structure.Ti=Token Structure:
 
 Token.Add.Ti=Additional Token value:
 
-Token.Value.=[Bit/Sec_01]
+Token.Value.=[Z/Sec/1]
 
-Token.Structure.=[Bit/Sec_01]
+Token.Structure.=[Z/Sec/1]
 
-Token.Add.=[Bit/Sec_01]
+Token.Add.=[Z/Sec/1]
 
 Token.Sec=<b>{Token.Ti}</b><ol><li>{Token.Value.Sec}<li>{Token.Structure.Sec}<li>{Token.Add.Sec}</ol>
 
 Delegate.Ti=Delegates: 
 
-Delegate.=[Bit/Sec_01]
+Delegate.=[Z/Sec/1]
 
 Budget.Ti=Budgets 
 
-Budget.=[Bit/Sec_01]
+Budget.=[Z/Sec/1]
 
 Attachments.Ti=Attachments
 
 Attachments.sec=This agreement is subject to the General Terms (Attachment 1).  The parties agree that the DCO will be governed by the Blockchain Workshops form of LLC Form (Attachment 2).  The attachments form a part of this agreement.
 
-Attachments.=[Bit/Sec_01]
+Attachments.=[Z/Sec/1]
 
 Disputes.Ti=Dispute Resolution
 
 Disputes.sec=The "Dispute Resolution Jurisdiction" means {Dispute.Forum}.
 
-Disputes.=[Bit/Sec_01]
+Disputes.=[Z/Sec/1]
 
 90.Sec={Attach.Doc}
 
-=[Bit/Sec_05]  
+=[Z/Sec/5]
 
 xlist=<ol><li>{Purpose.Sec}<li>{Token.Sec}<li>{Delegate.Sec}<li>{Budget.Sec}<li>{Disputes.Sec}<li>{Attachments.Sec}</ol>
 

@@ -10,7 +10,7 @@ Token.Structure.2.sec=50 tokens reserved for contributors
 
 Token.Structure.3.sec=25 tokens available for sale at a price to be determined by the market. 
 
-Token.Structure.=[Bit/Ssec_03]
+Token.Structure.=[Z/Sec/s3]
 
 Token.Add.sec=None. 
   

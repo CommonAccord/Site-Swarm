@@ -13,7 +13,7 @@ Intro.Agree.sec=By sending funds you are entering into a binding stakeholder agr
 	
 1.1.1.sec=Periodic decision making rights in the DCO on significant matters related to the future of the organization. 
 
-1.1.=[Bit/Ssec_01]
+1.1.=[Z/Sec/s1]
 
 1.2.sec=These rights are represented by an asset issued on a cryptographic ledger.
 
@@ -23,7 +23,7 @@ Intro.Agree.sec=By sending funds you are entering into a binding stakeholder agr
 
 1.5.sec=If you lose this passphrase or someone else gains access to it, your ability to exercise these stakeholder rights is lost forever. 
 
-1.=[Bit/Ssec_05]
+1.=[Z/Sec/s5]
 
 
 2.Ti=Categories of Action
@@ -38,7 +38,7 @@ Intro.Agree.sec=By sending funds you are entering into a binding stakeholder agr
 
 2.1.1.2.sec=Minor budget adjustments  ( < $25k )
 
-2.1.1.=[Bit/Ssec_02]
+2.1.1.=[Z/Sec/s2]
 
 2.1.2.0.sec=Notification timeline:  
 
@@ -46,11 +46,11 @@ Intro.Agree.sec=By sending funds you are entering into a binding stakeholder agr
 
 2.1.2.2.sec=1 week time frame in which to vote
 
-2.1.2.=[Bit/Ssec_02]
+2.1.2.=[Z/Sec/s2]
  
 2.1.3.sec=Minor actions require a majority of voting members. 
 
-2.1.=[Bit/Ssec_03]
+2.1.=[Z/Sec/s3]
 
 2.2.Ti=Major actions
 
@@ -60,8 +60,7 @@ Intro.Agree.sec=By sending funds you are entering into a binding stakeholder agr
 
 2.2.1.2.sec=Election of an open delegate seat
 
-2.2.1.=[Bit/Ssec_02]
-
+2.2.1.=[Z/Sec/2]
 
 2.2.2.0.sec=Notification timeline: 
 
@@ -69,15 +68,15 @@ Intro.Agree.sec=By sending funds you are entering into a binding stakeholder agr
 
 2.2.2.2.sec=3 week timeframe in which to vote
 
-2.2.2.=[Bit/Ssec_02]
+2.2.2.=[Z/Sec/s2]
 
 2.2.3.sec=Major actions require 60% approval of voting stakeholders within the time period specified. 
 
-2.2.=[Bit/Ssec_02]
+2.2.=[Z/Sec/s2]
 
 2.3.=[Swarm/DCO_Agt/Swarm_DCO_Agt_Sec_CriticalActions.01.md]
 
-2.=[Bit/Sec_03]
+2.=[Z/Sec/3]
 
 3.Ti=Definitions
 
@@ -89,7 +88,7 @@ Intro.Agree.sec=By sending funds you are entering into a binding stakeholder agr
 
 3.2.sec="Budget adjustments" include any outgoing usage of funds and may include money necessary for operations paid to delegates or other full-time staff, bounties or other monies paid to contractors for work, distribution of stakeholder rights in exchange for services, or some sort of reward that are returned to stakeholders for their contributions. 
 
-3.=[Bit/Ssec_02]
+3.=[Z/Sec/s2]
 
 4.Ti=Delegates
 
@@ -103,7 +102,7 @@ Intro.Agree.sec=By sending funds you are entering into a binding stakeholder agr
 
 Delegate.Chosen.Sen=To be chosen by stakeholders within 90 days after sale end and/or Swarm representative
 
-4.1.=[Bit/Ssec_03]
+4.1.=[Z/Sec/s3]
 
 4.2.sec=DCO delegates agree to make a best effort to inform stakeholders of any upcoming action requiring their approval and to follow any approved budgets. Allowable adjustments are anything below $5k. 
 
@@ -111,7 +110,7 @@ Delegate.Chosen.Sen=To be chosen by stakeholders within 90 days after sale end a
 
 4.4.sec=A delegate may or may not have a term associated with their election.  
 
-4.=[Bit/Ssec_04]
+4.=[Z/Sec/s4]
 
 5.Ti=Approval 
 
@@ -119,7 +118,7 @@ Delegate.Chosen.Sen=To be chosen by stakeholders within 90 days after sale end a
 
 5.2.sec=In the case that there is no included budget, a budget will be issued within 30 days after the close of the sale (no later than 90 days after purchase date) to be approved by stakeholders within the context of a "critical decision."
 
-5.=[Bit/Ssec_02]
+5.=[Z/Sec/s2]
 
 From Series Seed=8.12
 
@@ -127,4 +126,4 @@ From Series Seed=8.12
 
 6.sec=Each party (a) hereby irrevocably and unconditionally submits to the personal jurisdiction of the {Dispute_Resolution_Jurisdiction} for the purpose of any suit, action, or other proceeding arising out of or based upon {this_Agreement}; (b) shall not commence any suit, action or other proceeding arising out of or based upon {this_Agreement} except in the {Dispute_Resolution_Jurisdiction}; and (c) hereby waives, and shall not assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject to the personal jurisdiction of the {Dispute_Resolution_Jurisdiction}, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that {this_Agreement}, or the subject matter hereof and thereof may not be enforced in or by the {Dispute_Resolution_Jurisdiction}.
 
-=[Bit/Sec_06]
+=[Z/Sec/6]
